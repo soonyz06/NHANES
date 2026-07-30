@@ -1,2 +1,4 @@
 # NHANES
-In Progress
+Todo:
+- Noise2noise
+- Simulation w/ dist matching
