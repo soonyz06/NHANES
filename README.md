@@ -1,7 +1,8 @@
 # Todo
 - Validate on simulated data with known ground truths 
 - Handle heteroscedasticity, zero-inflated, right-skew and non-negative (currently raw for 2.)
-- Calibrated noise model for sigma-estimation step  
+- Fix noise model for sigma-estimation step (currently assumes homo gaussian noise or smth), make hetero?
+- Post-hoc non-negative or softplus-based +ve constraint or yj or log1p
 
 # EDA
 <img width="2338" height="992" alt="image" src="https://github.com/user-attachments/assets/68f9cc8d-4f38-40c6-aaa4-3eec406fb5b1" />
