@@ -16,7 +16,7 @@
 <img width="2476" height="1098" alt="image" src="https://github.com/user-attachments/assets/7a3f1bc7-0063-4f1b-82c9-71d0b806660c" />
 - don't look right, but is standard scaled yj transformed so maybe right?
 
-#Todo
+# Todo
 - Fix/check
 - CVAE
 - TSA?
