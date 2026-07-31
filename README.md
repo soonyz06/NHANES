@@ -12,8 +12,9 @@
   
 # Simulation w/ dist matching
 <img width="1280" height="778" alt="image" src="https://github.com/user-attachments/assets/66873029-110f-4e3a-90b3-4e33186662ff" />
-- need additional checks  
-<img width="2476" height="1098" alt="image" src="https://github.com/user-attachments/assets/7a3f1bc7-0063-4f1b-82c9-71d0b806660c" />
+- need additional checks
+<img width="740" height="1602" alt="image" src="https://github.com/user-attachments/assets/51792601-f6a9-42c3-943e-66c6ca2f1c5b" />
+<img width="738" height="1738" alt="image" src="https://github.com/user-attachments/assets/3dcbde36-123f-42cf-9064-d01fe72078a4" />
 - don't look right, fix :)
 
 # Todo
