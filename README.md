@@ -17,7 +17,7 @@
 <img width="1192" height="1376" alt="image" src="https://github.com/user-attachments/assets/e3dfb4ec-31b3-49c1-948f-3cee5cb6c9fb" />
 - diff scale but good enough for now
   
-# 2.Generative Model
+# 2.Simulation
 <img width="1280" height="778" alt="image" src="https://github.com/user-attachments/assets/66873029-110f-4e3a-90b3-4e33186662ff" />
 <img width="740" height="1602" alt="image" src="https://github.com/user-attachments/assets/51792601-f6a9-42c3-943e-66c6ca2f1c5b" />
 <img width="738" height="1738" alt="image" src="https://github.com/user-attachments/assets/3dcbde36-123f-42cf-9064-d01fe72078a4" />
