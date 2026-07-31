@@ -14,7 +14,7 @@
 <img width="1280" height="778" alt="image" src="https://github.com/user-attachments/assets/66873029-110f-4e3a-90b3-4e33186662ff" />
 - need additional checks  
 <img width="2476" height="1098" alt="image" src="https://github.com/user-attachments/assets/7a3f1bc7-0063-4f1b-82c9-71d0b806660c" />
-- don't look right, but is standard scaled yj transformed so maybe right?
+- don't look right, but is standard scaled yj transformed , fix :)
 
 # Todo
 - Fix/check
