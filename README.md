@@ -6,7 +6,7 @@
   
 # Noise2noise
 <img width="2474" height="880" alt="image" src="https://github.com/user-attachments/assets/34a2addb-9a78-46d8-9fab-cfa4de7d6437" />
-- w1->w2 MLP  
+- w1->w2 MLP (standard scaled + yj transformed)
 <img width="1192" height="1376" alt="image" src="https://github.com/user-attachments/assets/e3dfb4ec-31b3-49c1-948f-3cee5cb6c9fb" />
 - diff scale but good enough for now
   
@@ -14,7 +14,7 @@
 <img width="1280" height="778" alt="image" src="https://github.com/user-attachments/assets/66873029-110f-4e3a-90b3-4e33186662ff" />
 - need additional checks  
 <img width="2476" height="1098" alt="image" src="https://github.com/user-attachments/assets/7a3f1bc7-0063-4f1b-82c9-71d0b806660c" />
-- don't look right, but is standard scaled yj transformed , fix :)
+- don't look right, fix :)
 
 # Todo
 - Fix/check
