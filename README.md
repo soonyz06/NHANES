@@ -16,6 +16,6 @@
 <img width="738" height="1738" alt="image" src="https://github.com/user-attachments/assets/3dcbde36-123f-42cf-9064-d01fe72078a4" />
 
 # Todo
-- Fix/check
+- Fix/check/tune
 - CVAE
 - TSA?
