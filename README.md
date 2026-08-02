@@ -1,13 +1,8 @@
-# Todo
-- Validate on simulated data with known ground truths 
-- Handle heteroscedasticity, zero-inflated, right-skew and non-negative (currently raw for 2.)
-- Fix noise model for sigma-estimation step (currently assumes homo gaussian noise or smth), make hetero?
-- Post-hoc non-negative or softplus-based +ve constraint or yj or log1p
-- Noise2noise check if transformed and inversed correctly
+#Redone on seprate repo
 
 # 0.EDA
 <img width="2338" height="992" alt="image" src="https://github.com/user-attachments/assets/68f9cc8d-4f38-40c6-aaa4-3eec406fb5b1" />
-- Right-skew, Zero-inflated  
+- Right-skew, Zero-inflated, Non-negative
 <img width="2346" height="956" alt="image" src="https://github.com/user-attachments/assets/b403aaae-50df-4b46-9e8f-34dfbcf534e1" />
 - Error (w1-w2) somewhat normal, mu≈0
   
